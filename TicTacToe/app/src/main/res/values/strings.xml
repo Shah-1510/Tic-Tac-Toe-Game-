@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="login">Login</string>
+    <string name="signup">SIGNUP ?</string>
+    <string name="applogo">applogo</string>
+    <string name="email">Email</string>
+    <string name="emaillogo">emailLogo</string>
+    <string name="password">Password</string>
+    <string name="pass_logo">pass_logo</string>
+    <string name="signup_text">SIGN UP</string>
+    <string name="userllogo">userlogo</string>
+    <string name="user_name">User Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register_">Register</string>
+    <string name="heading">heading</string>
+    <string name="grid">drid</string>
+    <string name="status">status</string>
+    <string name="player_x_wins_0_nplayer_y_wins_0">Player X wins: 0\nPlayer Y wins: 0</string>
+    <string name="logout">logout</string>
+</resources>
